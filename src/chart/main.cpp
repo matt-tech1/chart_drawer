@@ -1,5 +1,4 @@
-#include "msvc/wx/setup.h"
-
+#include "wx/wx.h"
 class HelloWorldApp : public wxApp
 {
 public:
